@@ -2,7 +2,7 @@
   "license": "UNLICENSED",
   "private": true,
   "dependencies": {
-    "@rails/ujs": "^6.0.0",
+    "@rails/ujs": "^6.1.710",
     "normalize-scss": "^7.0.1",
     "turbolinks": "^5.2.0",
     "@babel/compat-data": "^7.9.0"
